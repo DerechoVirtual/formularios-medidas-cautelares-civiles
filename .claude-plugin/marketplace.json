@@ -1,0 +1,29 @@
+{
+  "name": "formularios-medidas-cautelares-civiles",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Medidas cautelares y diligencias preliminares · España (84 formularios). Para asegurar el pleito antes o durante el proceso: embargo preventivo, anotación preventiva de demanda, prohibiciones de disponer, administración judicial, diligencias preliminares, aseguramiento y anticipación de prueba, y oposición a las medidas. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-medidas-cautelares-civiles",
+      "source": "./",
+      "description": "Medidas cautelares y diligencias preliminares · España (84 formularios). Para asegurar el pleito antes o durante el proceso: embargo preventivo, anotación preventiva de demanda, prohibiciones de disponer, administración judicial, diligencias preliminares, aseguramiento y anticipación de prueba, y oposición a las medidas. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "cautelares-y-diligencias"
+      ]
+    }
+  ]
+}
